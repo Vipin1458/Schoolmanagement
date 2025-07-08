@@ -1,6 +1,6 @@
 
 from auth import login
-from student import register_student, list_students
+from students import register_student, list_students
 
 def main():
     print("Welcome to School Management System")
